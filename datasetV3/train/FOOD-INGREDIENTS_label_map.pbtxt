@@ -1,0 +1,600 @@
+item {
+    name: "Akabare Khursani",
+    id: 1,
+    display_name: "Akabare Khursani"
+}
+item {
+    name: "Apple",
+    id: 2,
+    display_name: "Apple"
+}
+item {
+    name: "Artichoke",
+    id: 3,
+    display_name: "Artichoke"
+}
+item {
+    name: "Ash Gourd -Kubhindo-",
+    id: 4,
+    display_name: "Ash Gourd -Kubhindo-"
+}
+item {
+    name: "Asparagus -Kurilo-",
+    id: 5,
+    display_name: "Asparagus -Kurilo-"
+}
+item {
+    name: "Avocado",
+    id: 6,
+    display_name: "Avocado"
+}
+item {
+    name: "Bacon",
+    id: 7,
+    display_name: "Bacon"
+}
+item {
+    name: "Bamboo Shoots -Tama-",
+    id: 8,
+    display_name: "Bamboo Shoots -Tama-"
+}
+item {
+    name: "Banana",
+    id: 9,
+    display_name: "Banana"
+}
+item {
+    name: "Beans",
+    id: 10,
+    display_name: "Beans"
+}
+item {
+    name: "Beaten Rice -Chiura-",
+    id: 11,
+    display_name: "Beaten Rice -Chiura-"
+}
+item {
+    name: "Beef",
+    id: 12,
+    display_name: "Beef"
+}
+item {
+    name: "Beetroot",
+    id: 13,
+    display_name: "Beetroot"
+}
+item {
+    name: "Bethu ko Saag",
+    id: 14,
+    display_name: "Bethu ko Saag"
+}
+item {
+    name: "Bitter Gourd",
+    id: 15,
+    display_name: "Bitter Gourd"
+}
+item {
+    name: "Black Lentils",
+    id: 16,
+    display_name: "Black Lentils"
+}
+item {
+    name: "Black beans",
+    id: 17,
+    display_name: "Black beans"
+}
+item {
+    name: "Bottle Gourd -Lauka-",
+    id: 18,
+    display_name: "Bottle Gourd -Lauka-"
+}
+item {
+    name: "Bread",
+    id: 19,
+    display_name: "Bread"
+}
+item {
+    name: "Brinjal",
+    id: 20,
+    display_name: "Brinjal"
+}
+item {
+    name: "Broad Beans -Bakullo-",
+    id: 21,
+    display_name: "Broad Beans -Bakullo-"
+}
+item {
+    name: "Broccoli",
+    id: 22,
+    display_name: "Broccoli"
+}
+item {
+    name: "Buff Meat",
+    id: 23,
+    display_name: "Buff Meat"
+}
+item {
+    name: "Butter",
+    id: 24,
+    display_name: "Butter"
+}
+item {
+    name: "Cabbage",
+    id: 25,
+    display_name: "Cabbage"
+}
+item {
+    name: "Capsicum",
+    id: 26,
+    display_name: "Capsicum"
+}
+item {
+    name: "Carrot",
+    id: 27,
+    display_name: "Carrot"
+}
+item {
+    name: "Cassava -Ghar Tarul-",
+    id: 28,
+    display_name: "Cassava -Ghar Tarul-"
+}
+item {
+    name: "Cauliflower",
+    id: 29,
+    display_name: "Cauliflower"
+}
+item {
+    name: "Chayote-iskus-",
+    id: 30,
+    display_name: "Chayote-iskus-"
+}
+item {
+    name: "Cheese",
+    id: 31,
+    display_name: "Cheese"
+}
+item {
+    name: "Chicken",
+    id: 32,
+    display_name: "Chicken"
+}
+item {
+    name: "Chicken Gizzards",
+    id: 33,
+    display_name: "Chicken Gizzards"
+}
+item {
+    name: "Chickpeas",
+    id: 34,
+    display_name: "Chickpeas"
+}
+item {
+    name: "Chili Pepper -Khursani-",
+    id: 35,
+    display_name: "Chili Pepper -Khursani-"
+}
+item {
+    name: "Chili Powder",
+    id: 36,
+    display_name: "Chili Powder"
+}
+item {
+    name: "Chowmein Noodles",
+    id: 37,
+    display_name: "Chowmein Noodles"
+}
+item {
+    name: "Cinnamon",
+    id: 38,
+    display_name: "Cinnamon"
+}
+item {
+    name: "Coriander -Dhaniya-",
+    id: 39,
+    display_name: "Coriander -Dhaniya-"
+}
+item {
+    name: "Corn",
+    id: 40,
+    display_name: "Corn"
+}
+item {
+    name: "Cornflakec",
+    id: 41,
+    display_name: "Cornflakec"
+}
+item {
+    name: "Crab Meat",
+    id: 42,
+    display_name: "Crab Meat"
+}
+item {
+    name: "Cucumber",
+    id: 43,
+    display_name: "Cucumber"
+}
+item {
+    name: "Egg",
+    id: 44,
+    display_name: "Egg"
+}
+item {
+    name: "Farsi ko Munta",
+    id: 45,
+    display_name: "Farsi ko Munta"
+}
+item {
+    name: "Fiddlehead Ferns -Niguro-",
+    id: 46,
+    display_name: "Fiddlehead Ferns -Niguro-"
+}
+item {
+    name: "Fish",
+    id: 47,
+    display_name: "Fish"
+}
+item {
+    name: "Garden Peas",
+    id: 48,
+    display_name: "Garden Peas"
+}
+item {
+    name: "Garden cress-Chamsur ko saag-",
+    id: 49,
+    display_name: "Garden cress-Chamsur ko saag-"
+}
+item {
+    name: "Garlic",
+    id: 50,
+    display_name: "Garlic"
+}
+item {
+    name: "Ginger",
+    id: 51,
+    display_name: "Ginger"
+}
+item {
+    name: "Green Brinjal",
+    id: 52,
+    display_name: "Green Brinjal"
+}
+item {
+    name: "Green Lentils",
+    id: 53,
+    display_name: "Green Lentils"
+}
+item {
+    name: "Green Mint -Pudina-",
+    id: 54,
+    display_name: "Green Mint -Pudina-"
+}
+item {
+    name: "Green Peas",
+    id: 55,
+    display_name: "Green Peas"
+}
+item {
+    name: "Green Soyabean -Hariyo Bhatmas-",
+    id: 56,
+    display_name: "Green Soyabean -Hariyo Bhatmas-"
+}
+item {
+    name: "Gundruk",
+    id: 57,
+    display_name: "Gundruk"
+}
+item {
+    name: "Ham",
+    id: 58,
+    display_name: "Ham"
+}
+item {
+    name: "Ice",
+    id: 59,
+    display_name: "Ice"
+}
+item {
+    name: "Jack Fruit",
+    id: 60,
+    display_name: "Jack Fruit"
+}
+item {
+    name: "Ketchup",
+    id: 61,
+    display_name: "Ketchup"
+}
+item {
+    name: "Lapsi -Nepali Hog Plum-",
+    id: 62,
+    display_name: "Lapsi -Nepali Hog Plum-"
+}
+item {
+    name: "Lemon -Nimbu-",
+    id: 63,
+    display_name: "Lemon -Nimbu-"
+}
+item {
+    name: "Lime -Kagati-",
+    id: 64,
+    display_name: "Lime -Kagati-"
+}
+item {
+    name: "Long Beans -Bodi-",
+    id: 65,
+    display_name: "Long Beans -Bodi-"
+}
+item {
+    name: "Masyaura",
+    id: 66,
+    display_name: "Masyaura"
+}
+item {
+    name: "Milk",
+    id: 67,
+    display_name: "Milk"
+}
+item {
+    name: "Minced Meat",
+    id: 68,
+    display_name: "Minced Meat"
+}
+item {
+    name: "Moringa Leaves -Sajyun ko Munta-",
+    id: 69,
+    display_name: "Moringa Leaves -Sajyun ko Munta-"
+}
+item {
+    name: "Mushroom",
+    id: 70,
+    display_name: "Mushroom"
+}
+item {
+    name: "Mutton",
+    id: 71,
+    display_name: "Mutton"
+}
+item {
+    name: "Nutrela -Soya Chunks-",
+    id: 72,
+    display_name: "Nutrela -Soya Chunks-"
+}
+item {
+    name: "Okra -Bhindi-",
+    id: 73,
+    display_name: "Okra -Bhindi-"
+}
+item {
+    name: "Olive Oil",
+    id: 74,
+    display_name: "Olive Oil"
+}
+item {
+    name: "Onion",
+    id: 75,
+    display_name: "Onion"
+}
+item {
+    name: "Onion Leaves",
+    id: 76,
+    display_name: "Onion Leaves"
+}
+item {
+    name: "Orange",
+    id: 77,
+    display_name: "Orange"
+}
+item {
+    name: "Palak -Indian Spinach-",
+    id: 78,
+    display_name: "Palak -Indian Spinach-"
+}
+item {
+    name: "Palungo -Nepali Spinach-",
+    id: 79,
+    display_name: "Palungo -Nepali Spinach-"
+}
+item {
+    name: "Paneer",
+    id: 80,
+    display_name: "Paneer"
+}
+item {
+    name: "Papaya",
+    id: 81,
+    display_name: "Papaya"
+}
+item {
+    name: "Pea",
+    id: 82,
+    display_name: "Pea"
+}
+item {
+    name: "Pear",
+    id: 83,
+    display_name: "Pear"
+}
+item {
+    name: "Pointed Gourd -Chuche Karela-",
+    id: 84,
+    display_name: "Pointed Gourd -Chuche Karela-"
+}
+item {
+    name: "Pork",
+    id: 85,
+    display_name: "Pork"
+}
+item {
+    name: "Potato",
+    id: 86,
+    display_name: "Potato"
+}
+item {
+    name: "Pumpkin -Farsi-",
+    id: 87,
+    display_name: "Pumpkin -Farsi-"
+}
+item {
+    name: "Radish",
+    id: 88,
+    display_name: "Radish"
+}
+item {
+    name: "Rahar ko Daal",
+    id: 89,
+    display_name: "Rahar ko Daal"
+}
+item {
+    name: "Rayo ko Saag",
+    id: 90,
+    display_name: "Rayo ko Saag"
+}
+item {
+    name: "Red Beans",
+    id: 91,
+    display_name: "Red Beans"
+}
+item {
+    name: "Red Lentils",
+    id: 92,
+    display_name: "Red Lentils"
+}
+item {
+    name: "Rice -Chamal-",
+    id: 93,
+    display_name: "Rice -Chamal-"
+}
+item {
+    name: "Sajjyun -Moringa Drumsticks-",
+    id: 94,
+    display_name: "Sajjyun -Moringa Drumsticks-"
+}
+item {
+    name: "Salt",
+    id: 95,
+    display_name: "Salt"
+}
+item {
+    name: "Sausage",
+    id: 96,
+    display_name: "Sausage"
+}
+item {
+    name: "Snake Gourd -Chichindo-",
+    id: 97,
+    display_name: "Snake Gourd -Chichindo-"
+}
+item {
+    name: "Soy Sauce",
+    id: 98,
+    display_name: "Soy Sauce"
+}
+item {
+    name: "Soyabean -Bhatmas-",
+    id: 99,
+    display_name: "Soyabean -Bhatmas-"
+}
+item {
+    name: "Sponge Gourd -Ghiraula-",
+    id: 100,
+    display_name: "Sponge Gourd -Ghiraula-"
+}
+item {
+    name: "Stinging Nettle -Sisnu-",
+    id: 101,
+    display_name: "Stinging Nettle -Sisnu-"
+}
+item {
+    name: "Strawberry",
+    id: 102,
+    display_name: "Strawberry"
+}
+item {
+    name: "Sugar",
+    id: 103,
+    display_name: "Sugar"
+}
+item {
+    name: "Sweet Potato -Suthuni-",
+    id: 104,
+    display_name: "Sweet Potato -Suthuni-"
+}
+item {
+    name: "Taro Leaves -Karkalo-",
+    id: 105,
+    display_name: "Taro Leaves -Karkalo-"
+}
+item {
+    name: "Taro Root-Pidalu-",
+    id: 106,
+    display_name: "Taro Root-Pidalu-"
+}
+item {
+    name: "Thukpa Noodles",
+    id: 107,
+    display_name: "Thukpa Noodles"
+}
+item {
+    name: "Tofu",
+    id: 108,
+    display_name: "Tofu"
+}
+item {
+    name: "Tomato",
+    id: 109,
+    display_name: "Tomato"
+}
+item {
+    name: "Tori ko Saag",
+    id: 110,
+    display_name: "Tori ko Saag"
+}
+item {
+    name: "Tree Tomato -Rukh Tamatar-",
+    id: 111,
+    display_name: "Tree Tomato -Rukh Tamatar-"
+}
+item {
+    name: "Turnip",
+    id: 112,
+    display_name: "Turnip"
+}
+item {
+    name: "Wallnut",
+    id: 113,
+    display_name: "Wallnut"
+}
+item {
+    name: "Water Melon",
+    id: 114,
+    display_name: "Water Melon"
+}
+item {
+    name: "Wheat",
+    id: 115,
+    display_name: "Wheat"
+}
+item {
+    name: "Yellow Lentils",
+    id: 116,
+    display_name: "Yellow Lentils"
+}
+item {
+    name: "kimchi",
+    id: 117,
+    display_name: "kimchi"
+}
+item {
+    name: "mayonnaise",
+    id: 118,
+    display_name: "mayonnaise"
+}
+item {
+    name: "noodle",
+    id: 119,
+    display_name: "noodle"
+}
+item {
+    name: "seaweed",
+    id: 120,
+    display_name: "seaweed"
+}

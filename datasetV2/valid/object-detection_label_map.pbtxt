@@ -1,0 +1,485 @@
+item {
+    name: "apple",
+    id: 1,
+    display_name: "apple"
+}
+item {
+    name: "asparagus",
+    id: 2,
+    display_name: "asparagus"
+}
+item {
+    name: "avocado",
+    id: 3,
+    display_name: "avocado"
+}
+item {
+    name: "banana",
+    id: 4,
+    display_name: "banana"
+}
+item {
+    name: "beef",
+    id: 5,
+    display_name: "beef"
+}
+item {
+    name: "bell_pepper",
+    id: 6,
+    display_name: "bell_pepper"
+}
+item {
+    name: "bento",
+    id: 7,
+    display_name: "bento"
+}
+item {
+    name: "blueberries",
+    id: 8,
+    display_name: "blueberries"
+}
+item {
+    name: "bottle",
+    id: 9,
+    display_name: "bottle"
+}
+item {
+    name: "bread",
+    id: 10,
+    display_name: "bread"
+}
+item {
+    name: "broccoli",
+    id: 11,
+    display_name: "broccoli"
+}
+item {
+    name: "butter",
+    id: 12,
+    display_name: "butter"
+}
+item {
+    name: "can",
+    id: 13,
+    display_name: "can"
+}
+item {
+    name: "carrot",
+    id: 14,
+    display_name: "carrot"
+}
+item {
+    name: "cauliflower",
+    id: 15,
+    display_name: "cauliflower"
+}
+item {
+    name: "cheese",
+    id: 16,
+    display_name: "cheese"
+}
+item {
+    name: "cherry",
+    id: 17,
+    display_name: "cherry"
+}
+item {
+    name: "chicken",
+    id: 18,
+    display_name: "chicken"
+}
+item {
+    name: "chicken_breast",
+    id: 19,
+    display_name: "chicken_breast"
+}
+item {
+    name: "chocolate",
+    id: 20,
+    display_name: "chocolate"
+}
+item {
+    name: "coffee",
+    id: 21,
+    display_name: "coffee"
+}
+item {
+    name: "corn",
+    id: 22,
+    display_name: "corn"
+}
+item {
+    name: "cream-cheese",
+    id: 23,
+    display_name: "cream-cheese"
+}
+item {
+    name: "cucumber",
+    id: 24,
+    display_name: "cucumber"
+}
+item {
+    name: "dates",
+    id: 25,
+    display_name: "dates"
+}
+item {
+    name: "egg",
+    id: 26,
+    display_name: "egg"
+}
+item {
+    name: "eggplant",
+    id: 27,
+    display_name: "eggplant"
+}
+item {
+    name: "fish",
+    id: 28,
+    display_name: "fish"
+}
+item {
+    name: "flour",
+    id: 29,
+    display_name: "flour"
+}
+item {
+    name: "garlic",
+    id: 30,
+    display_name: "garlic"
+}
+item {
+    name: "ginger",
+    id: 31,
+    display_name: "ginger"
+}
+item {
+    name: "goat_cheese",
+    id: 32,
+    display_name: "goat_cheese"
+}
+item {
+    name: "grapefruit",
+    id: 33,
+    display_name: "grapefruit"
+}
+item {
+    name: "grapes",
+    id: 34,
+    display_name: "grapes"
+}
+item {
+    name: "grated_cheese",
+    id: 35,
+    display_name: "grated_cheese"
+}
+item {
+    name: "green-chillies",
+    id: 36,
+    display_name: "green-chillies"
+}
+item {
+    name: "green_beans",
+    id: 37,
+    display_name: "green_beans"
+}
+item {
+    name: "ground_beef",
+    id: 38,
+    display_name: "ground_beef"
+}
+item {
+    name: "guacamole",
+    id: 39,
+    display_name: "guacamole"
+}
+item {
+    name: "ham",
+    id: 40,
+    display_name: "ham"
+}
+item {
+    name: "heavy_cream",
+    id: 41,
+    display_name: "heavy_cream"
+}
+item {
+    name: "humus",
+    id: 42,
+    display_name: "humus"
+}
+item {
+    name: "juice",
+    id: 43,
+    display_name: "juice"
+}
+item {
+    name: "ketchup",
+    id: 44,
+    display_name: "ketchup"
+}
+item {
+    name: "kiwi",
+    id: 45,
+    display_name: "kiwi"
+}
+item {
+    name: "leek",
+    id: 46,
+    display_name: "leek"
+}
+item {
+    name: "lemon",
+    id: 47,
+    display_name: "lemon"
+}
+item {
+    name: "lettuce",
+    id: 48,
+    display_name: "lettuce"
+}
+item {
+    name: "lime",
+    id: 49,
+    display_name: "lime"
+}
+item {
+    name: "mango",
+    id: 50,
+    display_name: "mango"
+}
+item {
+    name: "marmelade",
+    id: 51,
+    display_name: "marmelade"
+}
+item {
+    name: "mayonaise",
+    id: 52,
+    display_name: "mayonaise"
+}
+item {
+    name: "milk",
+    id: 53,
+    display_name: "milk"
+}
+item {
+    name: "mint",
+    id: 54,
+    display_name: "mint"
+}
+item {
+    name: "mushrooms",
+    id: 55,
+    display_name: "mushrooms"
+}
+item {
+    name: "mustard",
+    id: 56,
+    display_name: "mustard"
+}
+item {
+    name: "nuts",
+    id: 57,
+    display_name: "nuts"
+}
+item {
+    name: "olives",
+    id: 58,
+    display_name: "olives"
+}
+item {
+    name: "onion",
+    id: 59,
+    display_name: "onion"
+}
+item {
+    name: "orange",
+    id: 60,
+    display_name: "orange"
+}
+item {
+    name: "pak_choi",
+    id: 61,
+    display_name: "pak_choi"
+}
+item {
+    name: "parsley",
+    id: 62,
+    display_name: "parsley"
+}
+item {
+    name: "peach",
+    id: 63,
+    display_name: "peach"
+}
+item {
+    name: "pear",
+    id: 64,
+    display_name: "pear"
+}
+item {
+    name: "peas",
+    id: 65,
+    display_name: "peas"
+}
+item {
+    name: "pickles",
+    id: 66,
+    display_name: "pickles"
+}
+item {
+    name: "pineapple",
+    id: 67,
+    display_name: "pineapple"
+}
+item {
+    name: "plasticsaveholder",
+    id: 68,
+    display_name: "plasticsaveholder"
+}
+item {
+    name: "pomegrante",
+    id: 69,
+    display_name: "pomegrante"
+}
+item {
+    name: "pot",
+    id: 70,
+    display_name: "pot"
+}
+item {
+    name: "potato",
+    id: 71,
+    display_name: "potato"
+}
+item {
+    name: "potatoes",
+    id: 72,
+    display_name: "potatoes"
+}
+item {
+    name: "pudding",
+    id: 73,
+    display_name: "pudding"
+}
+item {
+    name: "radish",
+    id: 74,
+    display_name: "radish"
+}
+item {
+    name: "red_cabbage",
+    id: 75,
+    display_name: "red_cabbage"
+}
+item {
+    name: "red_grapes",
+    id: 76,
+    display_name: "red_grapes"
+}
+item {
+    name: "red_onion",
+    id: 77,
+    display_name: "red_onion"
+}
+item {
+    name: "rice_ball",
+    id: 78,
+    display_name: "rice_ball"
+}
+item {
+    name: "salad",
+    id: 79,
+    display_name: "salad"
+}
+item {
+    name: "salami",
+    id: 80,
+    display_name: "salami"
+}
+item {
+    name: "sandwich",
+    id: 81,
+    display_name: "sandwich"
+}
+item {
+    name: "sausage",
+    id: 82,
+    display_name: "sausage"
+}
+item {
+    name: "shrimp",
+    id: 83,
+    display_name: "shrimp"
+}
+item {
+    name: "smoothie",
+    id: 84,
+    display_name: "smoothie"
+}
+item {
+    name: "spinach",
+    id: 85,
+    display_name: "spinach"
+}
+item {
+    name: "spring_onion",
+    id: 86,
+    display_name: "spring_onion"
+}
+item {
+    name: "strawberries",
+    id: 87,
+    display_name: "strawberries"
+}
+item {
+    name: "sugar",
+    id: 88,
+    display_name: "sugar"
+}
+item {
+    name: "sweet_potato",
+    id: 89,
+    display_name: "sweet_potato"
+}
+item {
+    name: "tangerine",
+    id: 90,
+    display_name: "tangerine"
+}
+item {
+    name: "tomato",
+    id: 91,
+    display_name: "tomato"
+}
+item {
+    name: "tomato_sauce",
+    id: 92,
+    display_name: "tomato_sauce"
+}
+item {
+    name: "tortillas",
+    id: 93,
+    display_name: "tortillas"
+}
+item {
+    name: "turkey",
+    id: 94,
+    display_name: "turkey"
+}
+item {
+    name: "watermelon",
+    id: 95,
+    display_name: "watermelon"
+}
+item {
+    name: "yogurt",
+    id: 96,
+    display_name: "yogurt"
+}
+item {
+    name: "zucchini",
+    id: 97,
+    display_name: "zucchini"
+}
